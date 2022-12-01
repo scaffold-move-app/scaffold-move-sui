@@ -1,3 +1,6 @@
+> **Warning**
+> This is a work in progress and does not currently work.... STAY TUNED!
+
 # 🏗 scaffold-move-sui
 
 > everything you need to build on Sui! 🚀
